@@ -1,0 +1,50 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+#convenio-texto-item {
+	
+	display: flex;
+	margin-top: 1%;
+	margin-bottom: 15%;
+}
+
+
+
+#convenio-texto {
+	
+	font-size: 1.5rem;
+	max-width: 94%;
+	text-align: center;
+	font-weight: 550;
+	margin: auto;
+}
+
+
+
+.coluna-foto-convenio {
+	
+	display: inline-grid;
+	grid-template-columns: 7% 35% 16% 35% 7%;
+	margin-bottom: 15%;
+}
+
+
+
+.convenio-logo {
+	
+	width: 100%;
+	max-height: 100%;
+}
+
+
+
+#convenio-logo-vivest {
+	
+	width: 40%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 15%;
+}

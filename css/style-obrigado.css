@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+#obrigado-alinhar {
+	
+	display: flex;
+}
+
+
+
+#obrigado-item {
+	
+	margin: 4% auto 4% auto;
+	max-width: 90%;
+}
+
+
+
+#obrigado-texto {
+	
+	text-align: center;
+}
+
+
+
+#imagem-psicologa {
+	
+	display: block;
+	margin: 0 auto 4% auto;
+	width: 60%;
+}

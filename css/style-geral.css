@@ -1,0 +1,431 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+#total-pagina {
+	
+	width: 100%;
+	height: 100%;
+	padding: 0;
+	margin: 0;
+}
+
+
+
+#header {
+	
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+
+
+#cabeca {
+	
+	width: 100%;
+	margin: 0;
+	padding: 0;
+    display: inline-grid;
+	grid-template-columns: 10% 80% 10%;
+}
+
+
+
+#cabeca-imagem {
+	
+	width: 100%;
+	max-height: auto;
+	float: left;
+}
+
+
+
+#cabeca-texto-item1 {
+	
+	display: flex;
+	background-color: steelblue;
+}
+
+
+
+#cabeca-texto1 {
+	
+      margin: auto;
+	  color: white;
+	  max-width: 94%;
+}
+
+
+
+#cabeca-texto-item2 {
+	
+      display: none;
+	  background-color: steelblue;
+}
+
+
+
+#cabeca-texto2 {
+	
+	margin: auto;
+	color: white;
+	max-width: 94%;
+}
+
+
+
+#nav {
+	
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+
+
+#navegador {
+	
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	display: inline-grid;
+	grid-template-columns: 10% 80% 10%;
+}
+
+
+
+#navegador-barra {
+	
+	  list-style-type: none;
+	  background-color: whitesmoke;
+	  overflow: hidden;
+	  margin: 0;
+	  padding: 0;
+}
+
+
+
+#navegador-item-menu {
+	
+	display:none;
+	width: 100%;
+}
+
+
+
+#navegador-item-home {
+	
+	float: left;
+	width: 15%;
+}
+
+
+
+#navegador-item-especialidades {
+	
+	float: left;
+	width: 23%;
+}
+
+
+
+#navegador-item-profissionais {
+	
+	float: left;
+	width: 22%;
+}
+
+
+
+#navegador-item-convenios { 
+	
+	float: left;
+	width: 19%;
+}
+
+
+
+#navegador-item-localizacao {
+	
+	float: left;
+	width: 21%;
+}
+
+
+
+#navegador-link-menu {
+	
+	font-family: cursive;
+	text-decoration: none;
+	color: black;
+	display: block;
+	padding: 0.5rem 6%;
+}
+
+
+
+#navegador-link-menu:hover {
+	
+	background-color: aquamarine;
+}
+
+
+
+#navegador-link-menu:active {
+	
+	background-color: aquamarine;
+}
+
+
+
+#navegador-link-menu:visited {
+	
+	color: black;
+}
+
+
+
+.navegador-link {
+	
+    font-size: 1.5rem;
+	font-family: cursive;
+	text-decoration: none;
+	color: black;
+	text-align: center;
+    display: block;
+	padding-top: 0.5rem;
+	padding-bottom: 0.5rem;
+}
+
+
+
+.navegador-link:hover {
+	
+	background-color: aquamarine;
+}
+
+
+
+.navegador-link:visited {
+	
+	color: black;
+}
+
+
+
+#navegador-menu {
+	
+	display: none;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;	
+}
+
+
+
+#navegador-menu:target {
+	
+	display: block;
+}
+
+
+
+#navegador-item-seta {
+	
+	display: none;
+}
+
+
+
+#navegador-imagem-seta {
+	
+	width: 100%;
+}
+
+
+
+.menu-link {
+	
+	display: block;
+	text-decoration: none;
+	font-family: cursive;
+	color: black;
+	text-align: left;
+    padding: 0.5rem 6%;
+}
+
+
+
+.menu-link:hover {
+	
+	background-color: paleturquoise;
+}
+
+
+
+.menu-link:active {
+	
+	background-color: paleturquoise;
+}
+
+
+
+.menu-link:visited {
+	
+	color: black;
+}
+
+
+
+#principal {
+	
+	width: 100%;
+	max-height: auto;
+	display: inline-grid;
+	grid-template-columns: 10% 80% 10%;
+    margin-top: 2%;
+}
+
+
+
+#principal-container {
+	
+	border-style: double;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+
+
+#rodape {
+	
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+
+
+#rodape1 {
+	
+	width: 100%;
+	max-height: auto;
+	display: inline-grid;
+	grid-template-columns: 50% 50%;
+	background-color: midnightblue;
+	margin: 2% 0 0 0;
+	padding: 0 0 1% 0;
+}
+
+
+
+#rodape2 {
+	
+	width: 100%;
+	max-height: auto;
+	display: none;
+	grid-template-rows: auto auto;
+	background-color: midnightblue;
+	margin: 2% 0 0 0;
+	padding: 0;
+}
+
+
+
+.rodape-texto-titulo {
+	
+	color: white;
+	text-align: center;
+	text-decoration-line: underline;
+	font-size: 1.4rem;
+	
+}
+
+
+
+.rodape-texto-subtitulo {
+	
+	color: white;
+	text-align: center;
+	font-size: 1.2rem;
+	text-decoration-line: underline;
+}
+
+
+
+.rodape-texto {
+	
+	color: white;
+	text-align: center;
+	font-size: 1.2rem;
+}
+
+
+
+.rodape-link {
+	
+	color: white;
+}
+
+
+
+.rodape-link:visited {
+	
+	color: white;
+}
+
+
+
+.rodape-link-texto {
+	
+	text-align: center;
+	font-size: 1.2rem;
+}
+
+
+
+.whatsapp-logo {
+	
+	width: 30%;
+	padding-top: 6%;
+}
+
+
+
+#grid-rodape1 {
+	
+	width: 100%;
+	display: inline-grid;
+	grid-template-columns: 20% 60% 20%;
+}
+
+
+
+#grid-rodape2-1 {
+	
+	width: 100%;
+	display: inline-grid;
+	grid-template-columns: 50% 50%;
+	grid-template-rows: 30% 30%;
+	padding: 0 1% 0 1%;
+}
+
+
+
+#grid-rodape2-2 {
+	
+	width: 100%;
+	display: inline-grid;
+	grid-template-columns: 35% 65%;
+	grid-template-rows: 20% 20% 20% 20%;
+}
+
+
+
+
+
+
+

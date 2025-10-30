@@ -1,0 +1,119 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+@media(max-width:375px) {
+	
+	
+	convenio-texto-item {
+		
+		margin-top: 2.5%;
+	}
+	
+	
+	#convenio-texto {
+		
+		font-size: 1rem;
+	}
+}
+
+
+
+@media(min-width:376px) and (max-width:480px) {
+	
+	
+	convenio-texto-item {
+		
+		margin-top: 2%;
+	}
+	
+	
+	#convenio-texto {
+		
+		font-size: 1.05rem;
+	}
+}
+
+
+
+@media(min-width:481px) and (max-width:560px) {
+	
+	
+	convenio-texto-item {
+		
+		margin-top: 2%;
+	}
+	
+	
+	#convenio-texto {
+		
+		font-size: 1.1rem;
+	}
+}
+
+
+
+@media(min-width:561px) and (max-width:680px) {
+	
+	
+	#convenio-texto {
+		
+		font-size: 1.2rem;
+	}
+}
+
+
+
+@media(min-width:681px) and (max-width:768px) {
+	
+	
+	#convenio-texto {
+		
+		font-size: 1.25rem;
+	}
+}
+
+
+
+@media(min-width:769px) and (max-width:900px) {
+	
+	
+	#convenio-texto {
+		
+		font-size: 1.3rem;
+	}
+}
+
+
+
+@media(min-width:901px) and (max-width:1025px) {
+	
+	
+	#convenio-texto {
+		
+		font-size: 1.34rem;
+	}
+}
+
+
+
+@media(min-width:1026px) and (max-width:1280px) {
+	
+	
+	#convenio-texto {
+		
+		font-size: 1.4rem;
+	}
+}
+
+
+
+@media(min-width:1281px) and (max-width:1366px) {
+	
+	
+	#convenio-texto {
+		
+		font-size: 1.45rem;
+	}
+}

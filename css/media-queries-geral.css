@@ -1,0 +1,1007 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+@media(max-width:375px) {
+
+	
+	#cabeca {
+		
+		grid-template-columns: 25% 65% 10%;
+	  }
+	
+	
+	#cabeca-texto-item1 {
+		
+		display: none;
+	  }
+	
+	
+	#cabeca-texto-item2 {
+		
+		display: flex;
+	  }
+	
+	
+	#cabeca-texto2 {
+		
+		font-size: 1.05rem;
+	}
+	
+	
+	#navegador-item-menu{
+		
+		display: block;
+	  }
+	
+	
+	#navegador-item-seta {
+		
+		display: inline;
+	  }
+	
+	
+	#navegador-imagem-seta {
+		
+		height: 2.5rem;
+	}
+	
+	
+	#navegador-item-home {
+		
+		display: none;
+	  }
+	
+	
+	#navegador-item-especialidades {
+		
+		display: none;
+	  }
+		
+	
+	#navegador-item-profissionais {
+		
+		display: none;
+	  }
+	
+	
+	#navegador-item-convenios {
+		
+		display: none;
+	  }
+	
+	
+	#navegador-item-localizacao {
+		
+		display: none;
+	  }
+	
+	
+		#navegador-link-menu {
+		
+		font-size: 1.1rem;
+	}
+	
+	
+	.menu-link {
+		
+		font-size: 0.95rem;
+	}
+	
+	
+	#rodape1 {
+		
+		display: none;
+	}
+	
+	
+	#rodape2 {
+		
+		display: grid;
+	}
+	
+	
+	.rodape-texto-titulo {
+		
+		font-size: 1.15rem;
+	}
+
+	
+	.rodape-texto-subtitulo {
+		
+		font-size: 0.95rem;
+	}
+	
+	
+	.rodape-texto {
+		
+		font-size: 0.95rem;
+	}
+	
+	
+	.rodape-link-texto {
+	
+	
+	   font-size: 0.95rem;
+     }
+	
+	
+	.whatsapp-logo {
+	
+	  padding-top: 10%;
+	  padding-left: 30%;
+    }
+}
+
+
+
+@media(min-width:376px) and (max-width:480px) {
+
+	
+	#cabeca {
+		
+		grid-template-columns: 25% 65% 10%;
+	  }
+	
+	
+	#cabeca-texto-item1 {
+		
+		display: none;
+	  }
+	
+	
+	#cabeca-texto-item2 {
+		
+		display: flex;
+	  }
+	
+	
+	#cabeca-texto2 {
+		
+		font-size: 1.15rem;
+	}
+
+	
+	#navegador-item-menu{
+		
+		display: block;
+	  }
+	
+	
+	#navegador-item-seta {
+		
+		display: inline;
+	  }
+	
+	
+	#navegador-imagem-seta {
+		
+		height: 2.75rem;
+	}
+	
+	
+	#navegador-item-home {
+		
+		display: none;
+	  }
+	
+	
+	#navegador-item-especialidades {
+		
+		display: none;
+	  }
+		
+	
+	#navegador-item-profissionais {
+		
+		display: none;
+	  }
+	
+	
+	#navegador-item-convenios {
+		
+		display: none;
+	  }
+	
+	
+	#navegador-item-localizacao {
+		
+		display: none;
+	  }
+	
+	
+	#navegador-link-menu {
+		
+		font-size: 1.15rem;
+	}
+   
+	
+	.menu-link {
+		
+		font-size: 1rem;
+	}
+	
+	
+	#rodape1 {
+		
+		display: none;
+	}
+	
+	
+	#rodape2 {
+		
+		display: grid;
+	}
+	
+	
+	.rodape-texto-titulo {
+		
+		font-size: 1.2rem;
+	}
+	
+		
+	.rodape-texto-subtitulo {
+		
+		font-size: 1rem;
+	}
+	
+	
+	.rodape-texto {
+		
+		font-size: 1rem;
+	}
+	
+	
+	.rodape-link-texto {
+	
+	
+	   font-size: 1rem;
+     }
+	
+	
+	.whatsapp-logo {
+	
+	  width: 20%;
+	  padding-top: 10%;
+	  padding-left: 35%;
+    }
+	
+	
+	#grid-rodape2-2 {
+	
+     grid-template-columns: 42% 58%;
+   }
+}
+
+
+
+@media(min-width:481px) and (max-width:560px) {
+
+	
+	#cabeca {
+		
+		grid-template-columns: 22% 68% 10%;
+	  }
+	
+	
+	#cabeca-texto-item1 {
+		
+		display: none;
+	  }
+	
+	
+	#cabeca-texto-item2 {
+		
+		display: flex;
+	  }
+	
+	
+	#cabeca-texto2 {
+		
+		font-size: 1.23rem;
+	}
+	
+	
+	#navegador-item-menu{
+		
+		display: block;
+	  }
+	
+	
+	#navegador-item-seta {
+		
+		display: inline;
+	  }
+	
+	
+	#navegador-imagem-seta {
+		
+		height: 2.85rem;
+	}
+	
+	
+	#navegador-item-home {
+		
+		display: none;
+	  }
+	
+	
+	#navegador-item-especialidades {
+		
+		display: none;
+	  }
+		
+	
+	#navegador-item-profissionais {
+		
+		display: none;
+	  }
+	
+	
+	#navegador-item-convenios {
+		
+		display: none;
+	  }
+	
+	
+	#navegador-item-localizacao {
+		
+		display: none;
+	  }
+	
+	
+	#navegador-link-menu {
+		
+		font-size: 1.18rem;
+	}
+   
+	
+	.menu-link {
+		
+		font-size: 1.03rem;
+	}
+	
+	
+	.rodape-texto-titulo {
+		
+		font-size: 1.2rem;
+	}
+	
+		
+	.rodape-texto-subtitulo {
+		
+		font-size: 1rem;
+	}
+	
+	
+	.rodape-texto {
+		
+		font-size: 1rem;
+	}
+	
+	
+	#grid-rodape1 {
+		
+		grid-template-columns: 10% 75% 15%;
+	}
+	
+	
+	.rodape-link-texto {
+	
+	
+	   font-size: 1rem;
+     }
+	
+	
+	.whatsapp-logo {
+	
+      width: 80%;	
+	  padding-top: 25%;
+	 }
+}
+
+
+
+@media(min-width:561px) and (max-width:680px) {
+
+	
+	#cabeca {
+		
+		grid-template-columns: 20% 70% 10%;
+	  }
+	
+	
+	#cabeca-texto-item1 {
+		
+		display: none;
+	  }
+	
+	
+	#cabeca-texto-item2 {
+		
+		display: flex;
+	  }
+	
+	
+	#cabeca-texto2 {
+		
+		font-size: 1.33rem;
+	  }
+	
+	
+	#navegador-item-menu{
+		
+		display: block;
+	  }
+	
+	
+	#navegador-item-seta {
+		
+		display: inline;
+	  }
+	
+	
+	#navegador-imagem-seta {
+		
+		height: 2.95rem;
+	}
+	
+	
+	#navegador-item-home {
+		
+		display: none;
+	  }
+	
+	
+	#navegador-item-especialidades {
+		
+		display: none;
+	  }
+		
+	
+	#navegador-item-profissionais {
+		
+		display: none;
+	  }
+	
+	
+	#navegador-item-convenios {
+		
+		display: none;
+	  }
+	
+	
+	#navegador-item-localizacao {
+		
+		display: none;
+	  }
+	
+	
+	#navegador-link-menu {
+		
+		font-size: 1.21rem;
+	}
+   
+	
+	.menu-link {
+		
+		font-size: 1.06rem;
+	}
+	
+	
+	.rodape-texto-titulo {
+		
+		font-size: 1.23rem;
+	}
+	
+		
+	.rodape-texto-subtitulo {
+		
+		font-size: 1.03rem;
+	}
+	
+	
+	.rodape-texto {
+		
+		font-size: 1.03rem;
+	}
+	
+	
+	#grid-rodape1 {
+		
+		grid-template-columns: 15% 65% 20%;
+	}
+	
+	
+	.rodape-link-texto {
+	
+	
+	   font-size: 1.03rem;
+     }
+	
+	
+	.whatsapp-logo {
+	
+      width: 50%;	
+	  padding-top: 15%;
+	  padding-left: 20%;
+	 }
+}
+
+
+
+@media(min-width:681px) and (max-width:768px) {
+
+	
+	#cabeca {
+		
+		grid-template-columns: 15% 75% 10%;
+	  }
+	
+	
+	#cabeca-texto1 {
+		
+		font-size: 1.4rem;
+	  }
+	
+	
+	#navegador-item-menu{
+		
+		display: block;
+	  }
+	
+	
+	#navegador-item-seta {
+		
+		display: inline;
+	  }
+	
+	
+	#navegador-imagem-seta {
+		
+		height: 3.05rem;
+	}
+	
+	
+	#navegador-item-home {
+		
+		display: none;
+	  }
+	
+	
+	#navegador-item-especialidades {
+		
+		display: none;
+	  }
+		
+	
+	#navegador-item-profissionais {
+		
+		display: none;
+	  }
+	
+	
+	#navegador-item-convenios {
+		
+		display: none;
+	  }
+	
+	
+	#navegador-item-localizacao {
+		
+		display: none;
+	  }
+	
+	
+	#navegador-link-menu {
+		
+		font-size: 1.25rem;
+	}
+   
+	
+	.menu-link {
+		
+		font-size: 1.1rem;
+	}
+	
+	
+	.rodape-texto-titulo {
+		
+		font-size: 1.26rem;
+	}
+	
+		
+	.rodape-texto-subtitulo {
+		
+		font-size: 1.06rem;
+	}
+	
+	
+	.rodape-texto {
+		
+		font-size: 1.06rem;
+	}
+	
+	
+	.rodape-link-texto {
+	
+	
+	   font-size: 1.06rem;
+     }
+	
+	
+	.whatsapp-logo {
+	
+      width: 40%;	
+	  padding-top: 15%;
+	  padding-left: 20%;
+	 }
+}
+
+
+
+@media(min-width:769px) and (max-width:900px) {
+
+	
+	#cabeca {
+		
+		grid-template-columns: 15% 75% 10%;
+	  }
+	
+	
+	#cabeca-texto1 {
+		
+		font-size: 1.5rem;
+	}
+	
+	
+	#cabeca-texto-item2 {
+		
+		display: none;
+	  }
+
+	
+	#navegador-item-menu{
+		
+		display: block;
+	  }
+	
+	
+	#navegador-item-seta {
+		
+		display: inline;
+	  }
+	
+		#navegador-imagem-seta {
+		
+		height: 3.05rem;
+	}
+	
+	
+	#navegador-item-home {
+		
+		display: none;
+	  }
+	
+	
+	#navegador-item-especialidades {
+		
+		display: none;
+	  }
+		
+	
+	#navegador-item-profissionais {
+		
+		display: none;
+	  }
+	
+	
+	#navegador-item-convenios {
+		
+		display: none;
+	  }
+	
+	
+	#navegador-item-localizacao {
+		
+		display: none;
+	  }
+	
+	
+	#navegador-link-menu {
+		
+		font-size: 1.27rem;
+	}
+   
+	
+	.menu-link {
+		
+		font-size: 1.12rem;
+	}
+	
+	
+	.rodape-texto-titulo {
+		
+		font-size: 1.26rem;
+	}
+	
+		
+	.rodape-texto-subtitulo {
+		
+		font-size: 1.06rem;
+	}
+	
+	
+	.rodape-texto {
+		
+		font-size: 1.06rem;
+	}
+	
+	
+	.rodape-link-texto {
+	
+	
+	   font-size: 1.06rem;
+     }
+	
+	
+	.whatsapp-logo {
+	
+      width: 40%;	
+	  padding-top: 10%;
+	  padding-left: 10%;
+	 }
+}
+
+
+
+@media(min-width:901px) and (max-width:1025px) {
+	
+	
+	#cabeca-texto1 {
+		
+		font-size: 1.6rem;
+	}
+	
+	
+	#cabeca-texto-item2 {
+		
+		display: none;
+	  }
+
+	
+	.navegador-link {
+		
+		font-size: 1.22rem;
+	}
+	
+	
+	#navegador-item-menu{
+		
+		display: none;
+	  }
+	
+	
+	#navegador-item-seta {
+		
+		display: none;
+	}
+	
+	
+	.rodape-texto-titulo {
+		
+		font-size: 1.26rem;
+	}
+	
+		
+	.rodape-texto-subtitulo {
+		
+		font-size: 1.06rem;
+	}
+	
+	
+	.rodape-texto {
+		
+		font-size: 1.06rem;
+	}
+	
+	
+	.rodape-link-texto {
+	
+	
+	   font-size: 1.06rem;
+    }
+	
+	
+	.whatsapp-logo {
+	
+	  width: 40%;
+	  padding-top: 8%;
+   }
+}
+
+
+
+@media(min-width:1026px) and (max-width:1280px) {
+	
+	
+	#cabeca-texto1 {
+		
+		font-size: 1.7rem;
+	}
+	
+	
+      #cabeca-texto-item2 {
+		
+		display: none;
+	  }
+
+	
+	.navegador-link {
+		
+		font-size: 1.3rem;
+	}
+	
+	
+	#navegador-item-menu{
+		
+		display: none;
+	  }
+	
+	
+	#navegador-item-seta {
+		
+		display: none;
+	}
+	
+	
+	.rodape-texto-titulo {
+		
+		font-size: 1.35rem;
+	}
+	
+		
+	.rodape-texto-subtitulo {
+		
+		font-size: 1.1rem;
+	}
+	
+	
+	.rodape-texto {
+		
+		font-size: 1.1rem;
+	}
+	
+	
+	.rodape-link-texto {
+	
+	
+	   font-size: 1.1rem;
+    }
+}
+
+
+
+@media(min-width:1281px) and (max-width:1366px) {
+
+	
+	#cabeca-texto1 {
+		
+		font-size: 1.75rem;
+	}
+	
+	
+	#cabeca-texto-item2 {
+		
+		display: none;
+	  }
+
+	
+	.navegador-link {
+		
+		font-size: 1.35rem;
+	}
+	
+	
+	#navegador-item-menu{
+		
+		display: none;
+	  }
+	
+	
+	#navegador-item-seta {
+		
+		display: none;
+	}
+	
+	
+	.rodape-texto-titulo {
+		
+		font-size: 1.3rem;
+	}
+	
+		
+	.rodape-texto-subtitulo {
+		
+		font-size: 1.1rem;
+	}
+	
+	
+	.rodape-texto {
+		
+		font-size: 1.1rem;
+	}
+	
+	
+	.rodape-link-texto {
+	
+	
+	   font-size: 1.1rem;
+    }
+}
+
+
+
+@media(min-width:1367px) and (max-width:1440px) {
+
+	
+	
+	#cabeca-texto1 {
+		
+		font-size: 1.85rem;
+	}
+	
+	
+	#cabeca-texto-item2 {
+		
+		display: none;
+	  }
+	
+	
+	.navegador-link {
+		
+		font-size: 1.45rem;
+	}
+	
+	
+	#navegador-item-menu{
+		
+		display: none;
+	  }
+	
+	
+	#navegador-item-seta {
+		
+		display: none;
+	}
+	
+	
+	.rodape-texto-titulo {
+		
+		font-size: 1.35rem;
+	}
+	
+		
+	.rodape-texto-subtitulo {
+		
+		font-size: 1.15rem;
+	}
+	
+	
+	.rodape-texto {
+		
+		font-size: 1.15rem;
+	}
+	
+	
+	.rodape-link-texto {
+	
+	
+	   font-size: 1.15rem;
+    }
+}
+
+
+
+

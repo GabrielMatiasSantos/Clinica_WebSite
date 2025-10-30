@@ -1,0 +1,191 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+@media(max-width:375px) {
+	
+	
+	#localizacao-texto-item {
+		
+		margin-top: 2%;
+	}
+	
+	
+	#localizacao-texto {
+		
+		font-size: 1rem;
+	}
+	
+	
+	#mapa {
+		
+		height: 15rem;
+		width: 80%;
+	}
+}
+
+
+
+@media(min-width:376px) and (max-width:480px) {
+	
+	
+	#localizacao-texto-item {
+		
+		margin-top: 2%;
+	}
+	
+	
+	#localizacao-texto {
+		
+		font-size: 1.05rem;
+	}
+	
+	
+	#mapa {
+		
+		height: 20rem;
+		width: 80%;
+	}
+}
+
+
+
+@media(min-width:481px) and (max-width:560px) {
+	
+	
+	#localizacao-texto-item {
+		
+		margin-top: 2%;
+	}
+	
+	
+	#localizacao-texto {
+		
+		font-size: 1.1rem;
+	}
+	
+	
+	#mapa {
+		
+		height: 22rem;
+		width: 80%;
+	}
+}
+
+
+
+@media(min-width:561px) and (max-width:680px) {
+	
+	
+	#localizacao-texto {
+		
+		font-size: 1.2rem;
+	}
+	
+	
+	#mapa {
+		
+		height: 25rem;
+		width: 80%;
+	}
+}
+
+
+
+@media(min-width:680px) and (max-width:768px) {
+	
+	
+	#localizacao-texto {
+		
+		font-size: 1.25rem;
+	}
+	
+	
+	#mapa {
+		
+		height: 30rem;
+		width: 80%;
+	}
+}
+
+
+
+@media(min-width:769px) and (max-width:900px) {
+	
+	
+	#localizacao-texto {
+		
+		font-size: 1.3rem;
+	}
+	
+	
+	#mapa {
+		
+		height: 30rem;
+		width: 80%;
+	}
+}
+
+
+
+@media(min-width:901px) and (max-width:1025px) {
+	
+	
+	
+	#localizacao-texto {
+		
+		font-size: 1.35rem;
+	}
+	
+	
+	#mapa {
+		
+		height: 25rem;
+	}
+}
+
+
+
+@media(min-width:1026px) and (max-width:1280px) {
+	
+	
+	
+	#localizacao-texto {
+		
+		font-size: 1.4rem;
+	}
+	
+	
+	#mapa {
+		
+		height: 30rem;
+	}
+}
+
+
+
+@media(min-width:1281px) and (max-width:1366px) {
+	
+	
+	
+	#localizacao-texto {
+		
+		font-size: 1.45rem;
+	}
+	
+	
+	#mapa {
+		
+		height: 30rem;
+	}
+}
+
+
+
+@media(min-width:1367px) and (max-width:1440px) {
+	
+	#mapa {
+		
+		height: 35rem;
+	}
+}

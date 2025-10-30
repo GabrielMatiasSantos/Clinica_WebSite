@@ -1,0 +1,205 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+#clinica-foto {
+	
+	width: 60%;
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 1%;
+	margin-bottom: 10%;
+}
+
+
+
+#grid-texto-foto1 {
+	
+	display: inline-grid;
+	grid-template-columns: 5% 10% 5% 60% 5% 10% 5%;
+	background-color: ghostwhite;
+	margin-bottom: 10%;
+	width: 100%;
+}
+
+
+
+#grid-texto-foto2 {
+	
+	display: inline-grid;
+	grid-template-columns: 5% 10% 5% 60% 5% 10% 5%;
+	background-color: ghostwhite;
+	margin-top: 10%;
+	width: 100%;
+}
+
+
+
+.grid-foto-item {
+	
+	display: flex;
+}
+
+
+
+.grid-foto {
+	
+	width: 100%;
+	margin: auto;
+}
+
+
+
+.grid-texto-item {
+	
+	display: flex;
+}
+
+
+
+.grid-texto {
+	
+	font-size: 1.15rem;
+	text-align: center;
+	font-weight: 550;
+	margin: auto;
+	max-width: 98%;
+	padding-top: 1%;
+	padding-bottom: 1%;
+}
+
+
+
+#texto-mobile-item1 {
+	
+	display: none;
+	background-color: whitesmoke;
+}
+
+
+
+#texto-mobile-item2 {
+	
+	display: none;
+	background-color: whitesmoke;
+}
+
+
+
+.texto-mobile {
+	
+	max-width: 90%;
+	margin: auto;
+	text-align: center;
+	padding-top: 3%;
+	padding-bottom: 3%;
+}
+
+
+
+.grid-logo-psicologia-mobile {
+	
+	display: none;
+	width: 100%;
+	grid-template-columns: 5% 20% 50% 20% 5%;
+	background-color: ghostwhite;
+	padding-top: 2%;
+}
+
+
+
+#grid-procurar-ajuda {
+	
+	display: inline-grid;
+	grid-template-columns: 15% 70% 15%;
+	width: 100%;
+}
+
+
+
+.procurar-ajuda-foto-item {
+	
+	display: flex;
+}
+
+
+
+.procurar-ajuda-foto {
+	
+	width: 100%;
+	margin: auto;
+}
+
+
+
+#procurar-ajuda-fotos-mobile1 {
+	
+	display: none;
+	grid-template-columns: 25% 20% 10% 20% 25%;
+	margin-top: 30%;
+}
+
+
+
+#procurar-ajuda-fotos-mobile2 {
+	
+	display: none;
+	grid-template-columns: 25% 20% 10% 20% 25%;
+	margin-bottom: 32%;
+}
+
+
+
+#procurar-ajuda-texto-alinhar {
+	
+	display: flex;
+}
+
+
+
+#procurar-ajuda-texto-item {
+	
+	display: grid;
+	max-width: 90%;
+	grid-template-rows: auto auto auto auto auto auto auto auto auto;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+
+
+#procurar-ajuda-titulo {
+	
+	font-size: 1.4rem;
+	font-weight: 550;
+	margin-left: 15%;
+	text-decoration: underline;
+	margin-bottom: 5%;
+}
+
+
+
+.procurar-ajuda-texto {
+	
+	font-size: 1.15rem;
+	font-weight: 550;
+}
+
+
+
+#grid-fotos-atendimento {
+	
+	display: inline-grid;
+	grid-template-columns: 10% 35% 10% 35% 10%;
+	margin-top: 2%;
+	margin-bottom: 2%;
+	width: 100%;
+}
+
+
+.grid-foto-atendimento {
+	
+	width: 100%;
+}

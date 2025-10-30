@@ -1,0 +1,599 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+@media(max-width:375px) {
+	
+	
+	#clinica-foto {
+	
+	   width: 80%;
+    }
+	
+	
+	#grid-texto-foto1 {
+		
+		display: none;
+	}
+	
+	
+	#grid-texto-foto2 {
+		
+		display: none;
+	}
+	
+	
+	#texto-mobile-item1 {
+		
+		display: flex;
+	}
+	
+	
+	#texto-mobile-item2 {
+		
+		display: flex;
+	}
+	
+	
+	.texto-mobile {
+		
+		font-size: 0.9rem;
+		font-weight: 400;
+	}
+	
+	
+	.grid-logo-psicologia-mobile {
+		
+		display: inline-grid;
+	}
+	
+	
+	#grid-procurar-ajuda {
+		
+		grid-template-columns: 0% 100% 0%;
+	}
+	
+	
+	#procurar-ajuda-titulo {
+		
+		font-size: 1.05rem;
+		margin-left: 0;
+	}
+	
+	
+	.procurar-ajuda-texto {
+		
+		font-size: 0.9rem;
+		font-weight: 400;
+	}
+	
+	
+	#procurar-ajuda-fotos-mobile1 {
+		
+		display: inline-grid;
+	}
+	
+	
+	#procurar-ajuda-fotos-mobile2 {
+		
+		display: inline-grid;
+	}
+	
+	
+	#grid-fotos-atendimento {
+		
+		display: none;
+	}
+}
+
+
+
+@media(min-width:376px) and (max-width:480px) {
+	
+	
+	#clinica-foto {
+	
+	    width: 80%;
+    }
+	
+	
+	#grid-texto-foto1 {
+		
+		display: none;
+	}
+	
+	
+	#grid-texto-foto2 {
+		
+		display: none;
+	}
+	
+	
+	#texto-mobile-item1 {
+		
+		display: flex;
+	}
+	
+	
+	#texto-mobile-item2 {
+		
+		display: flex;
+	}
+	
+	
+	.texto-mobile {
+		
+		font-size: 0.95rem;
+		font-weight: 400;
+	}
+	
+	
+	.grid-logo-psicologia-mobile {
+		
+		display: inline-grid;
+	}
+	
+	
+	#grid-procurar-ajuda {
+		
+		grid-template-columns: 0% 100% 0%;
+	}
+	
+	
+	#procurar-ajuda-titulo {
+		
+		font-size: 1.1rem;
+		margin-left: 0;
+	}
+	
+	
+	.procurar-ajuda-texto {
+		
+		font-size: 0.95rem;
+		font-weight: 540;
+	}
+	
+	
+	#procurar-ajuda-fotos-mobile1 {
+		
+		display: inline-grid;
+	}
+	
+	
+	#procurar-ajuda-fotos-mobile2 {
+		
+		display: inline-grid;
+	}
+	
+	
+	#grid-fotos-atendimento {
+		
+		display: none;
+	}
+}
+
+
+
+@media(min-width:481px) and (max-width:560px) {
+	
+	
+	#clinica-foto {
+	
+	    width: 80%;
+    }
+	
+	
+	#grid-texto-foto1 {
+		
+		display: none;
+	}
+	
+	
+	#grid-texto-foto2 {
+		
+		display: none;
+	}
+	
+	
+	#texto-mobile-item1 {
+		
+		display: flex;
+	}
+	
+	
+	#texto-mobile-item2 {
+		
+		display: flex;
+	}
+	
+	
+	.texto-mobile {
+		
+		font-size: 1rem;
+		font-weight: 500;
+	}
+	
+	
+	.grid-logo-psicologia-mobile {
+		
+		display: inline-grid;
+	}
+	
+	
+	#grid-procurar-ajuda {
+		
+		grid-template-columns: 0% 100% 0%;
+	}
+	
+	
+	#procurar-ajuda-titulo {
+		
+		font-size: 1.15rem;
+		margin-left: 0;
+	}
+	
+	
+	.procurar-ajuda-texto {
+		
+		font-size: 1rem;
+		font-weight: 500;
+	}
+	
+	
+	#procurar-ajuda-fotos-mobile1 {
+		
+		display: inline-grid;
+	}
+	
+	
+	#procurar-ajuda-fotos-mobile2 {
+		
+		display: inline-grid;
+	}
+	
+	
+	#grid-fotos-atendimento {
+		
+		display: none;
+	}
+}
+
+
+
+@media(min-width:561px) and (max-width:680px) {
+	
+	
+	#clinica-foto {
+	
+	   width: 80%;
+    }
+	
+	
+	#grid-texto-foto1 {
+		
+		display: none;
+	}
+	
+	
+	#grid-texto-foto2 {
+		
+		display: none;
+	}
+	
+	
+	#texto-mobile-item1 {
+		
+		display: flex;
+	}
+	
+	
+	#texto-mobile-item2 {
+		
+		display: flex;
+	}
+	
+	
+	.texto-mobile {
+		
+		font-size: 1.03rem;
+		font-weight: 500;
+	}
+	
+	
+	.grid-logo-psicologia-mobile {
+		
+		display: inline-grid;
+	}
+	
+	
+	#grid-procurar-ajuda {
+		
+		grid-template-columns: 0% 100% 0%;
+	}
+	
+	
+	#procurar-ajuda-titulo {
+		
+		font-size: 1.18rem;
+		margin-left: 0;
+	}
+	
+	
+	.procurar-ajuda-texto {
+		
+		font-size: 1.03rem;
+		font-weight: 540;
+	}
+	
+	
+	#procurar-ajuda-fotos-mobile1 {
+		
+		display: inline-grid;
+	}
+	
+	
+	#procurar-ajuda-fotos-mobile2 {
+		
+		display: inline-grid;
+	}
+	
+	
+	#grid-fotos-atendimento {
+		
+		display: none;
+	}
+}
+
+
+
+@media(min-width:681px) and (max-width:768px) {
+	
+	
+	#clinica-foto {
+	
+	    width: 80%;
+    }
+	
+	
+	#grid-texto-foto1 {
+		
+		display: none;
+	}
+	
+	
+	#grid-texto-foto2 {
+		
+		display: none;
+	}
+	
+	
+	#texto-mobile-item1 {
+		
+		display: flex;
+	}
+	
+	
+	#texto-mobile-item2 {
+		
+		display: flex;
+	}
+	
+	
+	.texto-mobile {
+		
+		font-size: 1.06rem;
+		font-weight: 550;
+	}
+	
+	
+	.grid-logo-psicologia-mobile {
+		
+		display: inline-grid;
+		grid-template-columns: 5% 17% 56% 17% 5%;
+	}
+	
+	
+	#grid-procurar-ajuda {
+		
+		grid-template-columns: 0% 100% 0%;
+	}
+	
+	
+	#procurar-ajuda-titulo {
+		
+		font-size: 1.26rem;
+		margin-left: 0;
+	}
+	
+	
+	.procurar-ajuda-texto {
+		
+		font-size: 1.06rem;
+		font-weight: 540;
+	}
+	
+	
+	#procurar-ajuda-fotos-mobile1 {
+		
+		display: inline-grid;
+	}
+	
+	
+	#procurar-ajuda-fotos-mobile2 {
+		
+		display: inline-grid;
+	}
+	
+	
+	#grid-fotos-atendimento {
+		
+		display: none;
+	}
+}
+
+
+
+@media(min-width:769px) and (max-width:900px) {
+	
+	
+	#clinica-foto {
+	
+	    width: 80%;
+    }
+	
+	
+	#grid-texto-foto1 {
+		
+		display: none;
+	}
+	
+	
+	#grid-texto-foto2 {
+		
+		display: none;
+	}
+	
+	
+	#texto-mobile-item1 {
+		
+		display: flex;
+	}
+	
+	
+	#texto-mobile-item2 {
+		
+		display: flex;
+	}
+	
+	
+	.texto-mobile {
+		
+		font-size: 1.06rem;
+		font-weight: 550;
+	}
+	
+	
+	.grid-logo-psicologia-mobile {
+		
+		display: inline-grid;
+		grid-template-columns: 5% 15% 60% 15% 5%;
+	}
+	
+	
+	#grid-procurar-ajuda {
+		
+		grid-template-columns: 0% 100% 0%;
+	}
+	
+	
+	#procurar-ajuda-titulo {
+		
+		font-size: 1.26rem;
+		margin-left: 0;
+	}
+	
+	
+	.procurar-ajuda-texto {
+		
+		font-size: 1.06rem;
+		font-weight: 540;
+	}
+	
+	
+	#procurar-ajuda-fotos-mobile1 {
+		
+		display: inline-grid;
+	}
+	
+	
+	#procurar-ajuda-fotos-mobile2 {
+		
+		display: inline-grid;
+	}
+	
+	
+	#grid-fotos-atendimento {
+		
+		display: none;
+	}
+}
+
+
+
+@media(min-width:901px) and (max-width:1025px) {
+	
+	
+	#grid-texto-foto1 {
+	
+	    grid-template-columns: 2% 13% 5% 60% 5% 13% 2%;
+    }
+	
+	
+	#grid-texto-foto2 {
+	
+	    grid-template-columns: 2% 13% 5% 60% 5% 13% 2%;
+    }
+	
+	
+	.grid-texto {
+		
+		font-size: 1.02rem;
+	}
+	
+	
+	#procurar-ajuda-titulo {
+		
+		font-size: 1.27rem;
+	}
+	
+	
+	.procurar-ajuda-texto {
+		
+		font-size: 1.02rem;
+	}
+}
+
+
+
+@media(min-width:1026px) and (max-width:1280px) {
+	
+	
+	.grid-texto {
+		
+		font-size: 1.1rem;
+	}
+	
+	#procurar-ajuda-titulo {
+		
+		font-size: 1.35rem;
+	}
+	
+	
+	.procurar-ajuda-texto {
+		
+		font-size: 1.1rem;
+	}
+}
+
+
+@media(min-width:1281px) and (max-width:1366px) {
+	
+	
+	.grid-texto {
+		
+		font-size: 1.1rem;
+	}
+	
+	#procurar-ajuda-titulo {
+		
+		font-size: 1.35rem;
+	}
+	
+	
+	.procurar-ajuda-texto {
+		
+		font-size: 1.1rem;
+	}
+}
+

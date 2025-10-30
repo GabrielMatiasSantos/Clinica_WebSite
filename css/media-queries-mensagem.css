@@ -1,0 +1,68 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+@media(max-width:375px) {
+	
+	.input {
+		
+		width: 10rem;
+	}
+	
+	
+	#mensagem {
+		
+		width: 10rem;
+	}
+	
+	
+	#mensagem-item {
+	
+	margin: 6% auto 6% auto;
+   }
+}
+
+
+
+@media(min-width:376px) and (max-width:480px) {
+	
+	.input {
+		
+		width: 12rem;
+	}
+	
+	
+	#mensagem {
+		
+		width: 12rem;
+	}
+	
+	
+	#mensagem-item {
+	
+	margin: 5% auto 5% auto;
+   }
+}
+
+
+
+@media(min-width:481px) and (max-width:560px) {
+	
+	
+	#mensagem {
+		
+		width: 15rem;
+	}
+}
+
+
+
+@media(min-width:561px) and (max-width:680px) {
+	
+	
+	#mensagem {
+		
+		width: 18rem;
+	}
+}
